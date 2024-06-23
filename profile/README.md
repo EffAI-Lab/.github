@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1D5573&height=180&section=header&text=EffAI%20Lab.&fontSize=55&fontColor=f0f0f0&animation=fadeIn&fontAlignY=34&desc=Make%20AI%20Efficient&descAlignY=54&descAlign=50"/>
+    <img width="372" alt="logosize 조절" src="https://github.com/EffAI-Lab/.github-private/assets/163801318/9533dbc4-3ae6-4220-be0e-9a669d6ce961">
 </p>
 
 <div align="center">
@@ -12,9 +12,3 @@
 |**Implicit Neural Representation를 이용한 이상탐지**|한국통신학회 동계종합학술발표회|2024|
 
 </div>
-
-</br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D5573&height=120&section=footer"/>
-</p>
