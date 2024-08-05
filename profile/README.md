@@ -1,5 +1,5 @@
 <p align='center'>
-    <img width="372" alt="EffAI-Lab" src="https://github.com/EffAI-Lab/.github-private/assets/163801318/9533dbc4-3ae6-4220-be0e-9a669d6ce961">
+    <img width="372" alt="EffAI-Lab" src="https://github.com/user-attachments/assets/2a40eea3-1f45-434d-97bf-1b3bb77749ca">
 </p>
 
 <div align="center">
